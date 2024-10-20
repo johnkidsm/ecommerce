@@ -76,9 +76,9 @@
   }
 
   p {
-    font-size: 25px;
+    font-size: 40px;
     margin: 0 0 10px 0;
-    color: #030101;
+    color: #d1c4c4;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
     @include mid-break {
@@ -95,7 +95,7 @@
 
 .links {
   list-style: none;
-  margin: 0;
+  margin: 40px 0 0 0;
   padding: 0;
   display: flex;
   justify-content: center;
